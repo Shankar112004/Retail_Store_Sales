@@ -117,29 +117,29 @@ These visuals help users compare product categories, explore location-wise perfo
 
 ### Dashboard Preview
 
-Add your actual Power BI dashboard screenshot to the repository and display it here:
+https://github.com/Shankar112004/Retail_Store_Sales/blob/main/Retail_store_sales(1).png
 
-```markdown
-![Retail Store Sales Dashboard](images/retail-sales-dashboard.png)
-```
+<img width="876" height="496" alt="image" src="https://github.com/user-attachments/assets/424da640-72c6-4cf1-b69f-60cf799c02e9" />
 
-Make sure the image filename and folder path match your repository.
+
+
 
 ## 💡 Key Insights
 
-Use this section to document findings based on your actual SQL queries and Power BI results.
+- **Overall Sales Performance:** The dashboard recorded approximately **169.6K in total sales**, providing an overview of the store's overall sales performance.
 
-Examples of insights to investigate:
+- **Sales by Location:** **Online sales are higher than in-store sales**, with online sales reaching approximately 85K compared with around 80K for in-store purchases.
 
-- The category with the highest recorded sales.
-- The product with the highest recorded quantity.
-- The location with the largest transaction volume.
-- Differences in total and average spending across payment methods.
-- Differences in quantity and spending between known discount groups.
+- **Category-Wise Sales:** **Butchers** contributed the highest recorded category sales at approximately **25.75K**, followed by **Patisserie** at around **21.92K**.
 
-Add actual figures from your analysis rather than assuming which product, category, location, or payment method performs best.
+- **Quantity Sold by Category:** **Butchers recorded the highest quantity sold**, at approximately 1K units, indicating strong demand in this category.
 
-## 📁 Suggested Repository Structure
+- **Average Price by Category:** The **Butchers category has the highest average price**, at approximately 25, while Milk Products has the lowest average price among the displayed categories.
+
+These insights help identify top-performing categories, compare online and in-store sales, and understand differences in product quantity and average prices.
+
+
+## 📁  Repository Structure
 
 ```text
 Retail-Store-Sales-Insights/
@@ -162,7 +162,6 @@ Retail-Store-Sales-Insights/
 └── README.md
 ```
 
-Adjust the folder names to match your actual repository. Avoid uploading confidential information or unnecessary copies of the raw dataset.
 
 ## 🚀 How to Explore the Project
 
